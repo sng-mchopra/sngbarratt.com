@@ -1,0 +1,11 @@
+C:\Users\Manish Chopra\Desktop\sngbarratt.com-master\sngbarratt.com-master\jCtrl.Shipping.RoyalMail\bin\Debug\jCtrl.Shipping.RoyalMail.dll.config
+C:\Users\Manish Chopra\Desktop\sngbarratt.com-master\sngbarratt.com-master\jCtrl.Shipping.RoyalMail\bin\Debug\jCtrl.Shipping.RoyalMail.dll
+C:\Users\Manish Chopra\Desktop\sngbarratt.com-master\sngbarratt.com-master\jCtrl.Shipping.RoyalMail\bin\Debug\jCtrl.Shipping.RoyalMail.pdb
+C:\Users\Manish Chopra\Desktop\sngbarratt.com-master\sngbarratt.com-master\jCtrl.Shipping.RoyalMail\obj\Debug\jCtrl.Shipping.RoyalMail.dll
+C:\Users\Manish Chopra\Desktop\sngbarratt.com-master\sngbarratt.com-master\jCtrl.Shipping.RoyalMail\obj\Debug\jCtrl.Shipping.RoyalMail.pdb
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Shipping.RoyalMail\bin\Debug\jCtrl.Shipping.RoyalMail.dll.config
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Shipping.RoyalMail\bin\Debug\jCtrl.Shipping.RoyalMail.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Shipping.RoyalMail\bin\Debug\jCtrl.Shipping.RoyalMail.pdb
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Shipping.RoyalMail\obj\Debug\jCtrl.Shipping.RoyalMail.csprojResolveAssemblyReference.cache
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Shipping.RoyalMail\obj\Debug\jCtrl.Shipping.RoyalMail.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Shipping.RoyalMail\obj\Debug\jCtrl.Shipping.RoyalMail.pdb

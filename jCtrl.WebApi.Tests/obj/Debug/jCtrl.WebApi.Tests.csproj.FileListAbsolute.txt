@@ -1,0 +1,12 @@
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi.Tests\bin\Debug\jCtrl.WebApi.Tests.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi.Tests\bin\Debug\jCtrl.WebApi.Tests.pdb
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi.Tests\obj\Debug\jCtrl.WebApi.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi.Tests\obj\Debug\jCtrl.WebApi.Tests.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi.Tests\obj\Debug\jCtrl.WebApi.Tests.pdb
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi.Tests\bin\Debug\jCtrl.WebApi.Tests.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi.Tests\bin\Debug\jCtrl.WebApi.Tests.pdb
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi.Tests\obj\Debug\jCtrl.WebApi.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi.Tests\obj\Debug\jCtrl.WebApi.Tests.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi.Tests\obj\Debug\jCtrl.WebApi.Tests.pdb

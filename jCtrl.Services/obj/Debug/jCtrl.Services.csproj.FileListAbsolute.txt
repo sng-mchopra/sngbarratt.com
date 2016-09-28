@@ -1,0 +1,35 @@
+u:\my documents\visual studio 2015\Projects\SNGBarratt\jCtrl.Services\bin\Debug\jCtrl.Services.dll
+u:\my documents\visual studio 2015\Projects\SNGBarratt\jCtrl.Services\bin\Debug\jCtrl.Services.pdb
+u:\my documents\visual studio 2015\Projects\SNGBarratt\jCtrl.Services\obj\Debug\jCtrl.Services.dll
+u:\my documents\visual studio 2015\Projects\SNGBarratt\jCtrl.Services\obj\Debug\jCtrl.Services.pdb
+u:\my documents\visual studio 2015\Projects\SNGBarratt\jCtrl.Services\obj\Debug\jCtrl.Services.csprojResolveAssemblyReference.cache
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.Services\bin\Debug\jCtrl.Services.dll.config
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.Services\bin\Debug\jCtrl.Services.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.Services\bin\Debug\jCtrl.Services.pdb
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.Services\bin\Debug\EntityFramework.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.Services\bin\Debug\EntityFramework.xml
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.Services\obj\Debug\jCtrl.Services.csprojResolveAssemblyReference.cache
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.Services\obj\Debug\jCtrl.Services.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.Services\obj\Debug\jCtrl.Services.pdb
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services\bin\Debug\jCtrl.Services.dll.config
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services\bin\Debug\jCtrl.Services.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services\bin\Debug\jCtrl.Services.pdb
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services\bin\Debug\EntityFramework.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services\bin\Debug\Ionic.Zip.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services\bin\Debug\EntityFramework.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services\bin\Debug\Ionic.Zip.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services\obj\Debug\jCtrl.Services.csprojResolveAssemblyReference.cache
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services\obj\Debug\jCtrl.Services.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services\obj\Debug\jCtrl.Services.pdb

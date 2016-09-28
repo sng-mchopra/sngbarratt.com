@@ -1,0 +1,102 @@
+u:\my documents\visual studio 2015\Projects\SNGBarratt\jCtrl.Services.Tests\bin\Debug\jCtrl.Services.Tests.dll
+u:\my documents\visual studio 2015\Projects\SNGBarratt\jCtrl.Services.Tests\bin\Debug\jCtrl.Services.Tests.pdb
+u:\my documents\visual studio 2015\Projects\SNGBarratt\jCtrl.Services.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+u:\my documents\visual studio 2015\Projects\SNGBarratt\jCtrl.Services.Tests\obj\Debug\jCtrl.Services.Tests.csprojResolveAssemblyReference.cache
+u:\my documents\visual studio 2015\Projects\SNGBarratt\jCtrl.Services.Tests\obj\Debug\jCtrl.Services.Tests.dll
+u:\my documents\visual studio 2015\Projects\SNGBarratt\jCtrl.Services.Tests\obj\Debug\jCtrl.Services.Tests.pdb
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.Services.Tests\bin\Debug\jCtrl.Services.Tests.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.Services.Tests\bin\Debug\jCtrl.Services.Tests.pdb
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.Services.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.Services.Tests\obj\Debug\jCtrl.Services.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.Services.Tests\obj\Debug\jCtrl.Services.Tests.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.Services.Tests\obj\Debug\jCtrl.Services.Tests.pdb
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services.Tests\bin\Debug\jCtrl.Services.Tests.dll.config
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services.Tests\bin\Debug\jCtrl.Services.Tests.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services.Tests\bin\Debug\jCtrl.Services.Tests.pdb
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services.Tests\bin\Debug\Castle.Core.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services.Tests\bin\Debug\jCtrl.Infrastructure.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services.Tests\bin\Debug\jCtrl.Services.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services.Tests\bin\Debug\Moq.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services.Tests\bin\Debug\Nito.AsyncEx.UnitTests.MSTest.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services.Tests\bin\Debug\EFSecondLevelCache.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services.Tests\bin\Debug\Ionic.Zip.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services.Tests\bin\Debug\jCtrl.Infrastructure.pdb
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services.Tests\bin\Debug\jCtrl.Services.pdb
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services.Tests\bin\Debug\Castle.Core.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services.Tests\bin\Debug\Moq.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services.Tests\bin\Debug\Nito.AsyncEx.UnitTests.MSTest.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services.Tests\bin\Debug\EFSecondLevelCache.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services.Tests\bin\Debug\Ionic.Zip.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services.Tests\obj\Debug\jCtrl.Services.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services.Tests\obj\Debug\jCtrl.Services.Tests.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Services.Tests\obj\Debug\jCtrl.Services.Tests.pdb
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\jCtrl.Services.Tests.dll.config
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\jCtrl.Services.Tests.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\jCtrl.Services.Tests.pdb
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\Castle.Core.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\EntityFramework.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\EntityFramework.SqlServer.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\jCtrl.Infrastructure.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\jCtrl.Services.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\Moq.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\Nito.AsyncEx.UnitTests.MSTest.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\nunit.framework.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\EFSecondLevelCache.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\Ionic.Zip.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\jCtrl.Infrastructure.pdb
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\jCtrl.Services.pdb
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\Castle.Core.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\EntityFramework.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\EntityFramework.SqlServer.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\Moq.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\Nito.AsyncEx.UnitTests.MSTest.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\nunit.framework.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\EFSecondLevelCache.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\Ionic.Zip.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Services.Tests\obj\Debug\jCtrl.Services.Tests.csprojResolveAssemblyReference.cache
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Services.Tests\obj\Debug\jCtrl.Services.Tests.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Services.Tests\obj\Debug\jCtrl.Services.Tests.pdb
+C:\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\jCtrl.Services.Tests.dll.config
+C:\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\jCtrl.Services.Tests.dll
+C:\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\jCtrl.Services.Tests.pdb
+C:\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\Castle.Core.dll
+C:\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\EntityFramework.dll
+C:\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\jCtrl.Infrastructure.dll
+C:\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\jCtrl.Services.dll
+C:\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\Moq.dll
+C:\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\Nito.AsyncEx.UnitTests.MSTest.dll
+C:\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\nunit.framework.dll
+C:\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\EFSecondLevelCache.dll
+C:\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\Ionic.Zip.dll
+C:\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\jCtrl.Infrastructure.pdb
+C:\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\jCtrl.Services.pdb
+C:\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\Castle.Core.xml
+C:\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\EntityFramework.xml
+C:\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\Moq.xml
+C:\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\Nito.AsyncEx.UnitTests.MSTest.xml
+C:\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\nunit.framework.xml
+C:\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\EFSecondLevelCache.xml
+C:\sngbarratt.com\jCtrl.Services.Tests\bin\Debug\Ionic.Zip.xml
+C:\sngbarratt.com\jCtrl.Services.Tests\obj\Debug\jCtrl.Services.Tests.csprojResolveAssemblyReference.cache
+C:\sngbarratt.com\jCtrl.Services.Tests\obj\Debug\jCtrl.Services.Tests.dll
+C:\sngbarratt.com\jCtrl.Services.Tests\obj\Debug\jCtrl.Services.Tests.pdb

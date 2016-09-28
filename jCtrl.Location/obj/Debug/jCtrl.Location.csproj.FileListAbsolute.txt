@@ -1,0 +1,15 @@
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Location\bin\Debug\jCtrl.Location.dll.config
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Location\bin\Debug\jCtrl.Location.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Location\bin\Debug\jCtrl.Location.pdb
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Location\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Location\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Location\obj\Debug\jCtrl.Location.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Location\obj\Debug\jCtrl.Location.pdb
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Location\bin\Debug\jCtrl.Location.dll.config
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Location\bin\Debug\jCtrl.Location.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Location\bin\Debug\jCtrl.Location.pdb
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Location\bin\Debug\Newtonsoft.Json.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Location\bin\Debug\Newtonsoft.Json.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Location\obj\Debug\jCtrl.Location.csprojResolveAssemblyReference.cache
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Location\obj\Debug\jCtrl.Location.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.Location\obj\Debug\jCtrl.Location.pdb

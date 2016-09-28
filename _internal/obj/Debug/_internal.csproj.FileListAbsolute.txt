@@ -1,0 +1,84 @@
+u:\my documents\visual studio 2015\Projects\SNGBarratt\_internal\bin\Debug\_internal.exe.config
+u:\my documents\visual studio 2015\Projects\SNGBarratt\_internal\bin\Debug\_internal.exe
+u:\my documents\visual studio 2015\Projects\SNGBarratt\_internal\bin\Debug\_internal.pdb
+u:\my documents\visual studio 2015\Projects\SNGBarratt\_internal\obj\Debug\_internal.csprojResolveAssemblyReference.cache
+u:\my documents\visual studio 2015\Projects\SNGBarratt\_internal\obj\Debug\_internal.exe
+u:\my documents\visual studio 2015\Projects\SNGBarratt\_internal\obj\Debug\_internal.pdb
+u:\my documents\visual studio 2015\Projects\SNGBarratt\_internal\bin\Debug\jCtrl.Services.dll
+u:\my documents\visual studio 2015\Projects\SNGBarratt\_internal\bin\Debug\jCtrl.Services.pdb
+u:\my documents\visual studio 2015\Projects\SNGBarratt\_internal\bin\Debug\jCtrl.Persistence.dll
+u:\my documents\visual studio 2015\Projects\SNGBarratt\_internal\bin\Debug\jCtrl.Persistence.pdb
+u:\my documents\visual studio 2015\Projects\SNGBarratt\_internal\bin\Debug\EntityFramework.dll
+u:\my documents\visual studio 2015\Projects\SNGBarratt\_internal\bin\Debug\EntityFramework.xml
+C:\Users\Manish Chopra\Desktop\SNGBarratt\_internal\bin\Debug\_internal.exe.config
+C:\Users\Manish Chopra\Desktop\SNGBarratt\_internal\bin\Debug\_internal.exe
+C:\Users\Manish Chopra\Desktop\SNGBarratt\_internal\bin\Debug\_internal.pdb
+C:\Users\Manish Chopra\Desktop\SNGBarratt\_internal\bin\Debug\jCtrl.Infrastructure.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\_internal\bin\Debug\jCtrl.Services.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\_internal\bin\Debug\EntityFramework.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\_internal\bin\Debug\jCtrl.Infrastructure.pdb
+C:\Users\Manish Chopra\Desktop\SNGBarratt\_internal\bin\Debug\jCtrl.Services.pdb
+C:\Users\Manish Chopra\Desktop\SNGBarratt\_internal\bin\Debug\EntityFramework.xml
+C:\Users\Manish Chopra\Desktop\SNGBarratt\_internal\obj\Debug\_internal.csprojResolveAssemblyReference.cache
+C:\Users\Manish Chopra\Desktop\SNGBarratt\_internal\obj\Debug\_internal.exe
+C:\Users\Manish Chopra\Desktop\SNGBarratt\_internal\obj\Debug\_internal.pdb
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\_internal\bin\Debug\_internal.exe.config
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\_internal\bin\Debug\_internal.exe
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\_internal\bin\Debug\_internal.pdb
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\_internal\bin\Debug\jCtrl.Infrastructure.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\_internal\bin\Debug\jCtrl.Services.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\_internal\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\_internal\bin\Debug\EntityFramework.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\_internal\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\_internal\bin\Debug\EFSecondLevelCache.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\_internal\bin\Debug\Ionic.Zip.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\_internal\bin\Debug\jCtrl.Infrastructure.pdb
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\_internal\bin\Debug\jCtrl.Services.pdb
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\_internal\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\_internal\bin\Debug\EntityFramework.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\_internal\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\_internal\bin\Debug\EFSecondLevelCache.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\_internal\bin\Debug\Ionic.Zip.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\_internal\obj\Debug\_internal.csprojResolveAssemblyReference.cache
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\_internal\obj\Debug\_internal.exe
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\_internal\obj\Debug\_internal.pdb
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\_internal\bin\Debug\_internal.exe.config
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\_internal\bin\Debug\_internal.exe
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\_internal\bin\Debug\_internal.pdb
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\_internal\bin\Debug\jCtrl.Infrastructure.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\_internal\bin\Debug\jCtrl.Services.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\_internal\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\_internal\bin\Debug\EntityFramework.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\_internal\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\_internal\bin\Debug\EFSecondLevelCache.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\_internal\bin\Debug\Ionic.Zip.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\_internal\bin\Debug\jCtrl.Infrastructure.pdb
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\_internal\bin\Debug\jCtrl.Services.pdb
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\_internal\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\_internal\bin\Debug\EntityFramework.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\_internal\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\_internal\bin\Debug\EFSecondLevelCache.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\_internal\bin\Debug\Ionic.Zip.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\_internal\obj\Debug\_internal.csprojResolveAssemblyReference.cache
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\_internal\obj\Debug\_internal.exe
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\_internal\obj\Debug\_internal.pdb
+C:\sngbarratt.com\_internal\bin\Debug\_internal.exe.config
+C:\sngbarratt.com\_internal\bin\Debug\_internal.exe
+C:\sngbarratt.com\_internal\bin\Debug\_internal.pdb
+C:\sngbarratt.com\_internal\bin\Debug\jCtrl.Infrastructure.dll
+C:\sngbarratt.com\_internal\bin\Debug\jCtrl.Services.dll
+C:\sngbarratt.com\_internal\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\sngbarratt.com\_internal\bin\Debug\EntityFramework.dll
+C:\sngbarratt.com\_internal\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\sngbarratt.com\_internal\bin\Debug\EFSecondLevelCache.dll
+C:\sngbarratt.com\_internal\bin\Debug\Ionic.Zip.dll
+C:\sngbarratt.com\_internal\bin\Debug\jCtrl.Infrastructure.pdb
+C:\sngbarratt.com\_internal\bin\Debug\jCtrl.Services.pdb
+C:\sngbarratt.com\_internal\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\sngbarratt.com\_internal\bin\Debug\EntityFramework.xml
+C:\sngbarratt.com\_internal\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\sngbarratt.com\_internal\bin\Debug\EFSecondLevelCache.xml
+C:\sngbarratt.com\_internal\bin\Debug\Ionic.Zip.xml
+C:\sngbarratt.com\_internal\obj\Debug\_internal.csprojResolveAssemblyReference.cache
+C:\sngbarratt.com\_internal\obj\Debug\_internal.exe
+C:\sngbarratt.com\_internal\obj\Debug\_internal.pdb

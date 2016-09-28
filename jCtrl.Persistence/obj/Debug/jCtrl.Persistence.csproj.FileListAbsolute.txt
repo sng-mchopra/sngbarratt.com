@@ -1,0 +1,5 @@
+u:\my documents\visual studio 2015\Projects\SNGBarratt\jCtrl.Persistence\bin\Debug\jCtrl.Persistence.dll
+u:\my documents\visual studio 2015\Projects\SNGBarratt\jCtrl.Persistence\bin\Debug\jCtrl.Persistence.pdb
+u:\my documents\visual studio 2015\Projects\SNGBarratt\jCtrl.Persistence\obj\Debug\jCtrl.Persistence.csprojResolveAssemblyReference.cache
+u:\my documents\visual studio 2015\Projects\SNGBarratt\jCtrl.Persistence\obj\Debug\jCtrl.Persistence.dll
+u:\my documents\visual studio 2015\Projects\SNGBarratt\jCtrl.Persistence\obj\Debug\jCtrl.Persistence.pdb

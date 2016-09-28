@@ -1,0 +1,435 @@
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\obj\Debug\jCtrl.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\roslyn\csc.exe
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\roslyn\vbc.exe
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\jCtrl.WebApi.dll.config
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\jCtrl.WebApi.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\jCtrl.WebApi.pdb
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\AutoMapper.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\jCtrl.Infrastructure.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\jCtrl.Services.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\jCtrl.Services.External.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\Microsoft.AI.Web.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Practices.Unity.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\System.Web.Helpers.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\System.Web.Http.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\System.Web.Razor.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\System.Web.WebPages.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\Unity.WebApi.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\WebActivatorEx.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\EntityFramework.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\jCtrl.Infrastructure.pdb
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\jCtrl.Services.External.pdb
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\jCtrl.Services.pdb
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\AutoMapper.xml
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\Microsoft.AI.Web.xml
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Practices.Unity.xml
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\System.Web.Helpers.xml
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\System.Web.Razor.xml
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\System.Web.WebPages.xml
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\System.Web.Http.xml
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\bin\EntityFramework.xml
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\obj\Debug\jCtrl.WebApi.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.WebApi\obj\Debug\jCtrl.WebApi.pdb
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\roslyn\csc.exe
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\roslyn\vbc.exe
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\jCtrl.WebApi.dll.config
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\jCtrl.WebApi.XML
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\jCtrl.WebApi.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\jCtrl.WebApi.pdb
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Antlr3.Runtime.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\AutoMapper.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\EntityFramework.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Ionic.Zip.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\jCtrl.Infrastructure.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\jCtrl.Location.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\jCtrl.Services.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\jCtrl.Shipping.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\jCtrl.Validation.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.AI.Web.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Owin.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Owin.Security.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Practices.Unity.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Owin.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\System.Web.Cors.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\System.Web.Helpers.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\System.Web.Http.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\System.Web.Http.Owin.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\System.Web.Optimization.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\System.Web.Razor.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\System.Web.WebPages.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Thinktecture.IdentityModel.Core.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Unity.WebApi.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\WebActivatorEx.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\WebGrease.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\jCtrl.Shipping.UPS.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\jCtrl.Shipping.USPS.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\jCtrl.Shipping.Chronoship.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\jCtrl.Shipping.RoyalMail.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\AngleSharp.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\jCtrl.Location.pdb
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\jCtrl.Infrastructure.pdb
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\jCtrl.Services.pdb
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\jCtrl.Shipping.pdb
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\jCtrl.Validation.pdb
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\AutoMapper.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\EntityFramework.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Ionic.Zip.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.AI.Web.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Owin.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Owin.Security.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Practices.Unity.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\System.Web.Helpers.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\System.Web.Http.Owin.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\System.Web.Razor.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\System.Web.WebPages.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\System.Web.Http.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\jCtrl.Shipping.UPS.pdb
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\jCtrl.Shipping.USPS.pdb
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\jCtrl.Shipping.Chronoship.pdb
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\jCtrl.Shipping.RoyalMail.pdb
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\bin\AngleSharp.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\obj\Debug\jCtrl.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\obj\Debug\jCtrl.WebApi.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.WebApi\obj\Debug\jCtrl.WebApi.pdb
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\roslyn\csc.exe
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\roslyn\System.Collections.Immutable.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\roslyn\vbc.exe
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\roslyn\VBCSCompiler.exe
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\roslyn\VBCSCompiler.exe.config
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.WebApi.dll.config
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.WebApi.XML
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.WebApi.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.WebApi.pdb
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Antlr3.Runtime.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\AutoMapper.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\EntityFramework.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\EntityFramework.SqlServer.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Infrastructure.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Location.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Services.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Shipping.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Validation.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.AI.DependencyCollector.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.AI.Web.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.AI.WindowsServer.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.ApplicationInsights.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Owin.Cors.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Owin.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Owin.Security.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Practices.ServiceLocation.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Practices.Unity.Configuration.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Practices.Unity.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Web.Infrastructure.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Newtonsoft.Json.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Owin.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\System.Net.Http.Formatting.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\System.Web.Cors.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\System.Web.Helpers.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\System.Web.Http.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\System.Web.Http.Owin.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\System.Web.Http.WebHost.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\System.Web.Optimization.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\System.Web.Razor.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\System.Web.WebPages.Deployment.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\System.Web.WebPages.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\System.Web.WebPages.Razor.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Thinktecture.IdentityModel.Core.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Unity.WebApi.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\WebActivatorEx.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\WebGrease.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Shipping.UPS.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Shipping.USPS.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Shipping.Chronoship.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Shipping.RoyalMail.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\AngleSharp.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Location.pdb
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Infrastructure.pdb
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Services.pdb
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Shipping.pdb
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Validation.pdb
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\AutoMapper.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\EntityFramework.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\EntityFramework.SqlServer.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Ionic.Zip.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.AI.DependencyCollector.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.AI.Web.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.AI.WindowsServer.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.ApplicationInsights.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Owin.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Owin.Cors.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Owin.Security.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Owin.Security.Jwt.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Practices.ServiceLocation.pdb
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Practices.ServiceLocation.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Practices.Unity.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Practices.Unity.Configuration.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Newtonsoft.Json.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\System.IdentityModel.Tokens.Jwt.pdb
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\System.Web.Helpers.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\System.Web.Http.Owin.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\System.Web.Razor.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\System.Web.WebPages.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\System.Web.WebPages.Deployment.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\System.Web.WebPages.Razor.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\Thinktecture.IdentityModel.Core.pdb
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\System.Net.Http.Formatting.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\System.Web.Http.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\System.Web.Http.WebHost.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Shipping.UPS.pdb
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Shipping.USPS.pdb
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Shipping.Chronoship.pdb
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Shipping.RoyalMail.pdb
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\bin\AngleSharp.xml
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\obj\Debug\jCtrl.WebApi.csprojResolveAssemblyReference.cache
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\obj\Debug\jCtrl.WebApi.dll
+U:\My Documents\Visual Studio 2015\Projects\sngbarratt.com\jCtrl.WebApi\obj\Debug\jCtrl.WebApi.pdb
+C:\sngbarratt.com\jCtrl.WebApi\bin\roslyn\csc.exe
+C:\sngbarratt.com\jCtrl.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\sngbarratt.com\jCtrl.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\sngbarratt.com\jCtrl.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\roslyn\vbc.exe
+C:\sngbarratt.com\jCtrl.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\sngbarratt.com\jCtrl.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.WebApi.dll.config
+C:\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.WebApi.XML
+C:\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.WebApi.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.WebApi.pdb
+C:\sngbarratt.com\jCtrl.WebApi\bin\Antlr3.Runtime.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\AutoMapper.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\EntityFramework.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\EntityFramework.SqlServer.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Infrastructure.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Location.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Services.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Shipping.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Validation.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.AI.Web.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Owin.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Owin.Security.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Practices.ServiceLocation.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Practices.Unity.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\Newtonsoft.Json.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\Owin.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\System.Net.Http.Formatting.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\System.Web.Cors.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\System.Web.Helpers.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\System.Web.Http.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\System.Web.Http.Owin.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\System.Web.Http.WebHost.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\System.Web.Optimization.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\System.Web.Razor.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\System.Web.WebPages.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\Thinktecture.IdentityModel.Core.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\Unity.WebApi.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\WebActivatorEx.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\WebGrease.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Shipping.UPS.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Shipping.USPS.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Shipping.Chronoship.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Shipping.RoyalMail.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\AngleSharp.dll
+C:\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Location.pdb
+C:\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Infrastructure.pdb
+C:\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Services.pdb
+C:\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Shipping.pdb
+C:\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Validation.pdb
+C:\sngbarratt.com\jCtrl.WebApi\bin\AutoMapper.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\EntityFramework.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\EntityFramework.SqlServer.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.AI.Web.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.ApplicationInsights.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Owin.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Owin.Security.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Practices.ServiceLocation.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Practices.Unity.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\Newtonsoft.Json.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\sngbarratt.com\jCtrl.WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\System.Web.Helpers.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\System.Web.Http.Owin.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\System.Web.Razor.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\System.Web.WebPages.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\Thinktecture.IdentityModel.Core.pdb
+C:\sngbarratt.com\jCtrl.WebApi\bin\System.Net.Http.Formatting.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\System.Web.Http.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\System.Web.Http.WebHost.xml
+C:\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Shipping.UPS.pdb
+C:\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Shipping.USPS.pdb
+C:\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Shipping.Chronoship.pdb
+C:\sngbarratt.com\jCtrl.WebApi\bin\jCtrl.Shipping.RoyalMail.pdb
+C:\sngbarratt.com\jCtrl.WebApi\bin\AngleSharp.xml
+C:\sngbarratt.com\jCtrl.WebApi\obj\Debug\jCtrl.WebApi.csprojResolveAssemblyReference.cache
+C:\sngbarratt.com\jCtrl.WebApi\obj\Debug\jCtrl.WebApi.dll
+C:\sngbarratt.com\jCtrl.WebApi\obj\Debug\jCtrl.WebApi.pdb

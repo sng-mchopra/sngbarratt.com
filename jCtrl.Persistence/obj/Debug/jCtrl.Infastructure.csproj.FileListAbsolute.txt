@@ -1,0 +1,10 @@
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.Persistence\bin\Debug\jCtrl.Persistence.dll.config
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.Persistence\bin\Debug\jCtrl.Persistence.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.Persistence\bin\Debug\jCtrl.Persistence.pdb
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.Persistence\obj\Debug\jCtrl.Infastructure.csprojResolveAssemblyReference.cache
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.Persistence\obj\Debug\jCtrl.Persistence.dll
+C:\Users\Manish Chopra\Desktop\SNGBarratt\jCtrl.Persistence\obj\Debug\jCtrl.Persistence.pdb

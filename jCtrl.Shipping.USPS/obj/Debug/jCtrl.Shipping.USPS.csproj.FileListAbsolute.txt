@@ -1,0 +1,13 @@
+C:\Users\Manish Chopra\Desktop\sngbarratt.com-master\sngbarratt.com-master\jCtrl.Shipping.USPS\bin\Debug\jCtrl.Shipping.USPS.dll
+C:\Users\Manish Chopra\Desktop\sngbarratt.com-master\sngbarratt.com-master\jCtrl.Shipping.USPS\bin\Debug\jCtrl.Shipping.USPS.pdb
+C:\Users\Manish Chopra\Desktop\sngbarratt.com-master\sngbarratt.com-master\jCtrl.Shipping.USPS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Manish Chopra\Desktop\sngbarratt.com-master\sngbarratt.com-master\jCtrl.Shipping.USPS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Manish Chopra\Desktop\sngbarratt.com-master\sngbarratt.com-master\jCtrl.Shipping.USPS\obj\Debug\jCtrl.Shipping.USPS.dll
+C:\Users\Manish Chopra\Desktop\sngbarratt.com-master\sngbarratt.com-master\jCtrl.Shipping.USPS\obj\Debug\jCtrl.Shipping.USPS.pdb
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Shipping.USPS\bin\Debug\jCtrl.Shipping.USPS.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Shipping.USPS\bin\Debug\jCtrl.Shipping.USPS.pdb
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Shipping.USPS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Shipping.USPS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Shipping.USPS\obj\Debug\jCtrl.Shipping.USPS.csprojResolveAssemblyReference.cache
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Shipping.USPS\obj\Debug\jCtrl.Shipping.USPS.dll
+C:\Users\Manish Chopra\Source\Repos\SNGBarratt\jCtrl.Shipping.USPS\obj\Debug\jCtrl.Shipping.USPS.pdb
