@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CAC1C81B-95B4-4FFD-AB13-CC045D5B5C7B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>jCtrl.Services</RootNamespace>
+    <AssemblyName>jCtrl.Services</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Ionic.Zip">
+      <HintPath>..\..\..\..\Desktop\sngbarratt.com-master\sngbarratt.com-master\jCtrl.WebApi\bin\Ionic.Zip.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.Core, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.Core.2.2.1\lib\net45\Microsoft.AspNet.Identity.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.EntityFramework, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.EntityFramework.2.2.1\lib\net45\Microsoft.AspNet.Identity.EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Core\Configuration\Settings.cs" />
+    <Compile Include="Core\Repositories\IUserAccountRepository.cs" />
+    <Compile Include="Core\Repositories\IClientRepository.cs" />
+    <Compile Include="Core\Repositories\IRefreshTokenRepository.cs" />
+    <Compile Include="Core\Repositories\IVoucherRepository.cs" />
+    <Compile Include="Core\Repositories\IBranchPaymentMethodRepository.cs" />
+    <Compile Include="Core\Repositories\ICustomerShippingAddressRepository.cs" />
+    <Compile Include="Core\Repositories\ICustomerEmailAddressRepository.cs" />
+    <Compile Include="Core\Repositories\ICatalogueAssemblyRepository.cs" />
+    <Compile Include="Core\Repositories\ICatalogueApplicationRepository.cs" />
+    <Compile Include="Core\Repositories\ICatalogueFamilyRepository.cs" />
+    <Compile Include="Core\Repositories\ICatalogueModelRepository.cs" />
+    <Compile Include="Core\Repositories\ICustomerVehiclesRepository.cs" />
+    <Compile Include="Core\Repositories\IPackingContainerRepository.cs" />
+    <Compile Include="Core\Repositories\IShippingMethodRepository.cs" />
+    <Compile Include="Core\Repositories\IShippingQuoteRepository.cs" />
+    <Compile Include="Core\Repositories\IShippingProviderRepository.cs" />
+    <Compile Include="Core\Repositories\ICountriesRepository.cs" />
+    <Compile Include="Core\Repositories\ICartItemRepository.cs" />
+    <Compile Include="Core\Repositories\IPaymentCardsRepository.cs" />
+    <Compile Include="Core\Repositories\ICategoryRepository.cs" />
+    <Compile Include="Core\Repositories\ICustomerRepository.cs" />
+    <Compile Include="Core\Repositories\IProductRepository.cs" />
+    <Compile Include="Core\Repositories\IEventRepository.cs" />
+    <Compile Include="Core\Repositories\IBranchRepository.cs" />
+    <Compile Include="Core\Repositories\IOrderRepository.cs" />
+    <Compile Include="Core\Repositories\IAdvertRepository.cs" />
+    <Compile Include="Core\Repositories\IWishListItemRepository.cs" />
+    <Compile Include="Core\Repositories\IWishListRepository.cs" />
+    <Compile Include="Core\Repositories\ITweetRepository.cs" />
+    <Compile Include="Core\Repositories\IRepository.cs" />
+    <Compile Include="Core\Domain\Advert\Advert.cs" />
+    <Compile Include="Core\Domain\Advert\AdvertType.cs" />
+    <Compile Include="Core\Domain\Base\EntityBase.cs" />
+    <Compile Include="Core\Domain\Branch\Branch.cs" />
+    <Compile Include="Core\Domain\Branch\BranchIntroduction.cs" />
+    <Compile Include="Core\Domain\Branch\BranchOpeningTime.cs" />
+    <Compile Include="Core\Domain\Branch\BranchPaymentMethod.cs" />
+    <Compile Include="Core\Domain\Branch\BranchProduct.cs" />
+    <Compile Include="Core\Domain\Branch\BranchProductOffer.cs" />
+    <Compile Include="Core\Domain\Branch\BranchTaxRate.cs" />
+    <Compile Include="Core\Domain\Catalogue\CatalogueApplication.cs" />
+    <Compile Include="Core\Domain\Catalogue\CatalogueAssembly.cs" />
+    <Compile Include="Core\Domain\Catalogue\CatalogueAssemblyIllustration.cs" />
+    <Compile Include="Core\Domain\Catalogue\CatalogueAssemblyNode.cs" />
+    <Compile Include="Core\Domain\Catalogue\CatalogueAssemblyNodeProduct.cs" />
+    <Compile Include="Core\Domain\Catalogue\CatalogueAssemblyNodeTitle.cs" />
+    <Compile Include="Core\Domain\Catalogue\CatalogueAssemblyTitle.cs" />
+    <Compile Include="Core\Domain\Catalogue\CatalogueCategory.cs" />
+    <Compile Include="Core\Domain\Catalogue\CatalogueCategoryIntroduction.cs" />
+    <Compile Include="Core\Domain\Catalogue\CatalogueCategoryTitle.cs" />
+    <Compile Include="Core\Domain\Catalogue\CatalogueFamily.cs" />
+    <Compile Include="Core\Domain\Catalogue\CatalogueFamilyTitle.cs" />
+    <Compile Include="Core\Domain\Catalogue\CatalogueModel.cs" />
+    <Compile Include="Core\Domain\Catalogue\CatalogueModelTitle.cs" />
+    <Compile Include="Core\Domain\Category\Category.cs" />
+    <Compile Include="Core\Domain\Category\CategoryIntroduction.cs" />
+    <Compile Include="Core\Domain\Category\CategoryProduct.cs" />
+    <Compile Include="Core\Domain\Category\CategoryTitle.cs" />
+    <Compile Include="Core\Domain\Category\CategoryType.cs" />
+    <Compile Include="Core\Domain\Category\TaxRateCategory.cs" />
+    <Compile Include="Core\Domain\Contact\Address.cs" />
+    <Compile Include="Core\Domain\Contact\Contact.cs" />
+    <Compile Include="Core\Domain\Contact\EmailAddress.cs" />
+    <Compile Include="Core\Domain\Contact\PhoneNumber.cs" />
+    <Compile Include="Core\Domain\Contact\PhoneNumberType.cs" />
+    <Compile Include="Core\Domain\Customer\Customer.cs" />
+    <Compile Include="Core\Domain\Customer\CustomerAccountType.cs" />
+    <Compile Include="Core\Domain\Customer\CustomerEmailAddress.cs" />
+    <Compile Include="Core\Domain\Customer\CustomerPhoneNumber.cs" />
+    <Compile Include="Core\Domain\Customer\CustomerShippingAddress.cs" />
+    <Compile Include="Core\Domain\Customer\CustomerTradingLevel.cs" />
+    <Compile Include="Core\Domain\Customer\CustomerVehicle.cs" />
+    <Compile Include="Core\Domain\Events\ShowEvent.cs" />
+    <Compile Include="Core\Domain\Events\ShowEventDateTime.cs" />
+    <Compile Include="Core\Domain\Globalization\Country.cs" />
+    <Compile Include="Core\Domain\Globalization\CountryTitle.cs" />
+    <Compile Include="Core\Domain\Globalization\Currency.cs" />
+    <Compile Include="Core\Domain\Globalization\Language.cs" />
+    <Compile Include="Core\Domain\Globalization\Locale.cs" />
+    <Compile Include="Core\Domain\Order\CartItem.cs" />
+    <Compile Include="Core\Domain\Order\WebOrder.cs" />
+    <Compile Include="Core\Domain\Order\WebOrderEvent.cs" />
+    <Compile Include="Core\Domain\Order\WebOrderEventNote.cs" />
+    <Compile Include="Core\Domain\Order\WebOrderEventType.cs" />
+    <Compile Include="Core\Domain\Order\WebOrderItem.cs" />
+    <Compile Include="Core\Domain\Order\WebOrderItemStatus.cs" />
+    <Compile Include="Core\Domain\Order\WebOrderStatus.cs" />
+    <Compile Include="Core\Domain\Packing\Package.cs" />
+    <Compile Include="Core\Domain\Packing\PackageManifestItem.cs" />
+    <Compile Include="Core\Domain\Packing\PackingContainer.cs" />
+    <Compile Include="Core\Domain\Payment\PaymentCard.cs" />
+    <Compile Include="Core\Domain\Payment\PaymentMethod.cs" />
+    <Compile Include="Core\Domain\Payment\PaymentMethodTitle.cs" />
+    <Compile Include="Core\Domain\Phrase\InterfacePhrase.cs" />
+    <Compile Include="Core\Domain\Phrase\InterfacePhraseTranslation.cs" />
+    <Compile Include="Core\Domain\Product\DiscountLevel.cs" />
+    <Compile Include="Core\Domain\Product\Product.cs" />
+    <Compile Include="Core\Domain\Product\ProductAlternative.cs" />
+    <Compile Include="Core\Domain\Product\ProductBrand.cs" />
+    <Compile Include="Core\Domain\Product\ProductComponentStatus.cs" />
+    <Compile Include="Core\Domain\Product\ProductDocument.cs" />
+    <Compile Include="Core\Domain\Product\ProductImage.cs" />
+    <Compile Include="Core\Domain\Product\ProductLink.cs" />
+    <Compile Include="Core\Domain\Product\ProductQuantityBreakDiscountLevel.cs" />
+    <Compile Include="Core\Domain\Product\ProductStatus.cs" />
+    <Compile Include="Core\Domain\Product\ProductSupersession.cs" />
+    <Compile Include="Core\Domain\Product\ProductText.cs" />
+    <Compile Include="Core\Domain\Product\ProductType.cs" />
+    <Compile Include="Core\Domain\Shipping\ShippingAddress.cs" />
+    <Compile Include="Core\Domain\Shipping\ShippingCoverageLevel.cs" />
+    <Compile Include="Core\Domain\Shipping\ShippingMethod.cs" />
+    <Compile Include="Core\Domain\Shipping\ShippingProvider.cs" />
+    <Compile Include="Core\Domain\Shipping\ShippingQuote.cs" />
+    <Compile Include="Core\Domain\Shipping\ShippingQuotePackage.cs" />
+    <Compile Include="Core\Domain\Social\Tweet.cs" />
+    <Compile Include="Core\Domain\Translation\TranslatedIntroduction.cs" />
+    <Compile Include="Core\Domain\Translation\TranslatedTitle.cs" />
+    <Compile Include="Core\Domain\User\Client.cs" />
+    <Compile Include="Core\Domain\User\RefreshToken.cs" />
+    <Compile Include="Core\Domain\User\UserAccount.cs" />
+    <Compile Include="Core\Domain\Vehicle\Vehicle.cs" />
+    <Compile Include="Core\Domain\Vehicle\VehicleBodyVariant.cs" />
+    <Compile Include="Core\Domain\Vehicle\VehicleBodyVariantTitle.cs" />
+    <Compile Include="Core\Domain\Vehicle\VehicleDrivetrainVariant.cs" />
+    <Compile Include="Core\Domain\Vehicle\VehicleDrivetrainVariantTitle.cs" />
+    <Compile Include="Core\Domain\Vehicle\VehicleEngineTypeVariant.cs" />
+    <Compile Include="Core\Domain\Vehicle\VehicleEngineTypeVariantTitle.cs" />
+    <Compile Include="Core\Domain\Vehicle\VehicleEngineVariant.cs" />
+    <Compile Include="Core\Domain\Vehicle\VehicleEngineVariantTitle.cs" />
+    <Compile Include="Core\Domain\Vehicle\VehicleMarque.cs" />
+    <Compile Include="Core\Domain\Vehicle\VehicleMarqueTitle.cs" />
+    <Compile Include="Core\Domain\Vehicle\VehicleModel.cs" />
+    <Compile Include="Core\Domain\Vehicle\VehicleModelTitle.cs" />
+    <Compile Include="Core\Domain\Vehicle\VehicleModelVariant.cs" />
+    <Compile Include="Core\Domain\Vehicle\VehicleModelVariantTitle.cs" />
+    <Compile Include="Core\Domain\Vehicle\VehicleRange.cs" />
+    <Compile Include="Core\Domain\Vehicle\VehicleRangeTitle.cs" />
+    <Compile Include="Core\Domain\Vehicle\VehicleSteeringVariant.cs" />
+    <Compile Include="Core\Domain\Vehicle\VehicleSteeringVariantTitle.cs" />
+    <Compile Include="Core\Domain\Vehicle\VehicleTransmissionVariant.cs" />
+    <Compile Include="Core\Domain\Vehicle\VehicleTransmissionVariantTitle.cs" />
+    <Compile Include="Core\Domain\Vehicle\VehicleTrimLevelVariant.cs" />
+    <Compile Include="Core\Domain\Vehicle\VehicleTrimLevelVariantTitle.cs" />
+    <Compile Include="Core\Domain\Voucher\Voucher.cs" />
+    <Compile Include="Core\Domain\Voucher\VoucherRedemption.cs" />
+    <Compile Include="Core\Domain\Voucher\VoucherType.cs" />
+    <Compile Include="Core\Domain\WishList\WishList.cs" />
+    <Compile Include="Core\Domain\WishList\WishListItem.cs" />
+    <Compile Include="Core\Repositories\PagedResultsReturnModel.cs" />
+    <Compile Include="Core\Repositories\SortedPagedResultsReturnModel.cs" />
+    <Compile Include="Core\Utils\Helpers.cs" />
+    <Compile Include="IUnitOfWork.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Core\Utils\Calculator.cs" />
+    <Compile Include="Core\Utils\CustomAttributes\DecimalPrecisionAttribute.cs" />
+    <Compile Include="Core\Utils\Encryptor.cs" />
+    <Compile Include="Core\Utils\StringUtils.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

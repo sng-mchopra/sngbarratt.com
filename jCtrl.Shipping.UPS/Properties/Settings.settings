@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="jCtrl.Shipping.UPS.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Rates_Url_Test" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://wwwcie.ups.com/ups.app/xml/Rate</Value>
+    </Setting>
+    <Setting Name="Rates_Url_Live" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://onlinetools.ups.com/ups.app/xml/Rate</Value>
+    </Setting>
+    <Setting Name="UserId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">web@sng</Value>
+    </Setting>
+    <Setting Name="UserPwd" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">85FjvCR+k2XHg4gw47*XYtlL</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

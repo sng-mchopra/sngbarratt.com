@@ -1,0 +1,114 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="jCtrl.Shipping.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UPS_AccessKey_BAU" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">5C9E024EAE0895B8</Value>
+    </Setting>
+    <Setting Name="UPS_AccountNo_BAU" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">029214</Value>
+    </Setting>
+    <Setting Name="UPS_AccessKey_SNG" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">BC9E024653FD7BE3</Value>
+    </Setting>
+    <Setting Name="UPS_AccountNo_SNG" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">9W7277</Value>
+    </Setting>
+    <Setting Name="UPS_AccessKey_SNH" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">2C9E0248F9C3D228</Value>
+    </Setting>
+    <Setting Name="UPS_AccountNo_SNH" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">80044Y</Value>
+    </Setting>
+    <Setting Name="UPS_Domestic_Margin_Fixed_BAU" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="UPS_Domestic_Margin_Fixed_Limit_BAU" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="UPS_Domestic_Margin_Percentage_BAU" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="UPS_International_Margin_Fixed_BAU" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="UPS_International_Margin_Fixed_Limit_BAU" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="UPS_International_Margin_Percentage_BAU" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="UPS_Domestic_Margin_Fixed_SND" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="UPS_Domestic_Margin_Fixed_Limit_SND" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="UPS_Domestic_Margin_Percentage_SND" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="UPS_International_Margin_Fixed_SND" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="UPS_International_Margin_Fixed_Limit_SND" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="UPS_International_Margin_Percentage_SND" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="UPS_Domestic_Margin_Fixed_SNG" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="UPS_Domestic_Margin_Fixed_Limit_SNG" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="UPS_Domestic_Margin_Percentage_SNG" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="UPS_International_Margin_Fixed_SNG" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="UPS_International_Margin_Fixed_Limit_SNG" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="UPS_International_Margin_Percentage_SNG" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="UPS_Domestic_Margin_Fixed_SNH" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="UPS_Domestic_Margin_Fixed_Limit_SNH" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="UPS_Domestic_Margin_Percentage_SNH" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="UPS_International_Margin_Fixed_SNH" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="UPS_International_Margin_Fixed_Limit_SNH" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="UPS_International_Margin_Percentage_SNH" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="UPS_AccessKey_SND" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">2C9E0248F9C3D228</Value>
+    </Setting>
+    <Setting Name="UPS_AccountNo_SND" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">80044Y</Value>
+    </Setting>
+    <Setting Name="Chronoship_UserId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">40404101</Value>
+    </Setting>
+    <Setting Name="Chronoship_UserPwd" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">531124</Value>
+    </Setting>
+    <Setting Name="USPS_UserId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">389SNGBA5970</Value>
+    </Setting>
+    <Setting Name="USPS_UserPwd" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">552PB00ON077</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

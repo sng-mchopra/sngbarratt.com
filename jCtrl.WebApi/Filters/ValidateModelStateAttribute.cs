@@ -1,0 +1,50 @@
+﻿using System;
+using System.Collections.Concurrent;
+using System.Collections.Generic;
+using System.Linq;
+using System.Net;
+using System.Net.Http;
+using System.Text;
+using System.Threading.Tasks;
+using System.Web.Http.Controllers;
+using System.Web.Http.Filters;
+
+namespace jCtrl.WebApi.Filters
+{
+    [AttributeUsage(AttributeTargets.Class | AttributeTargets.Method, AllowMultiple = false)]
+    public sealed class ValidateModelStateAttribute:ActionFilterAttribute
+    {
+        private static readonly ConcurrentDictionary<HttpActionDescriptor, IList<string>> NotNullParameterNames = new ConcurrentDictionary<HttpActionDescriptor, IList<string>>();
+        
+        public override void OnActionExecuting(HttpActionContext actionContext)
+        {
+            // check we have all required parameters and that they are not null
+            var not_null_parameter_names = GetNotNullParameterNames(actionContext);
+            foreach (var not_null_parameter_name in not_null_parameter_names)
+            {
+                object value;
+                if (!actionContext.ActionArguments.TryGetValue(not_null_parameter_name, out value) || value == null)
+                    actionContext.ModelState.AddModelError(not_null_parameter_name, "Parameter \"" + not_null_parameter_name + "\" cannot be null.");
+            }
+
+            if (actionContext.ModelState.IsValid == false)
+            {
+                actionContext.Response = actionContext.Request.CreateErrorResponse(HttpStatusCode.BadRequest, actionContext.ModelState);
+            }
+        }
+
+        private static IList<string> GetNotNullParameterNames(HttpActionContext actionContext)
+        {
+            var result = NotNullParameterNames.GetOrAdd(actionContext.ActionDescriptor,
+                                                         descriptor => descriptor.GetParameters()
+                                                                                 .Where(p => !p.IsOptional && p.DefaultValue == null &&
+                                                                                             !p.ParameterType.IsValueType &&
+                                                                                             p.ParameterType != typeof(string))
+                                                                                 .Select(p => p.ParameterName)
+                                                                                 .ToList());
+
+            return result;
+        } 
+        
+    }
+}

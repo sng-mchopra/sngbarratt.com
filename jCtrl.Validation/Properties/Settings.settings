@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="jCtrl.Validation.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TaxNumber_Request_Url" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://ec.europa.eu/taxation_customs/vies/vatResponse.html</Value>
+    </Setting>
+    <Setting Name="TaxNumber_Referral_Url" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://ec.europa.eu/taxation_customs/vies/vatRequest.html</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

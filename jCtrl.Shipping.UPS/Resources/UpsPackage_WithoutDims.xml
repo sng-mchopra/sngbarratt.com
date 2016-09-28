@@ -1,0 +1,12 @@
+<Package>
+  <PackagingType>
+    <Code>02</Code>
+  </PackagingType>
+  <PackageWeight>
+    <UnitOfMeasurement>
+      <Code>KGS</Code>
+    </UnitOfMeasurement>
+    <Weight>#weightkgs</Weight>
+  </PackageWeight>
+  <AdditionalHandling/>
+</Package>

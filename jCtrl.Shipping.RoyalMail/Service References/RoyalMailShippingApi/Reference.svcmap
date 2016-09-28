@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="15fcad55-3c63-46fe-8a53-11ab318941e2" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="D:\My Documents\SNG BARRATT\Projects\Royal Mail\RM Soap Xsd Wsdl\ShippingAPI_V2_0_9.wsdl" Protocol="file" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="DatatypesV2_3.xsd" MetadataType="Schema" ID="e512cb9c-7f97-4797-9407-3a8d959bb31c" SourceId="1" SourceUrl="file:///D:/My Documents/SNG BARRATT/Projects/Royal Mail/RM Soap Xsd Wsdl/CDM/DatatypesV2_3.xsd" />
+    <MetadataFile FileName="oasis-200401-wss-wssecurity-secext-1.xsd" MetadataType="Schema" ID="d32a733d-6ddd-43af-8a8d-b098846fd9c4" SourceId="1" SourceUrl="file:///D:/My Documents/SNG BARRATT/Projects/Royal Mail/RM Soap Xsd Wsdl/oasis-200401-wss-wssecurity-secext-1.0.xsd" />
+    <MetadataFile FileName="RMGSOAPExtensionsV1_2.xsd" MetadataType="Schema" ID="0d803ad1-3e04-4b64-82f8-f8ebd23d49f5" SourceId="1" SourceUrl="file:///D:/My Documents/SNG BARRATT/Projects/Royal Mail/RM Soap Xsd Wsdl/CDM/RMGSOAPExtensionsV1_2.xsd" />
+    <MetadataFile FileName="CommonClassesV2_3.xsd" MetadataType="Schema" ID="0987b261-35cb-42f2-af0c-cbc02fe3de82" SourceId="1" SourceUrl="file:///D:/My Documents/SNG BARRATT/Projects/Royal Mail/RM Soap Xsd Wsdl/CDM/CommonClassesV2_3.xsd" />
+    <MetadataFile FileName="xml.xsd" MetadataType="Schema" ID="109d8290-5acb-4aeb-a54e-dcad98d4d850" SourceId="1" SourceUrl="file:///D:/My Documents/SNG BARRATT/Projects/Royal Mail/RM Soap Xsd Wsdl/xml.xsd" />
+    <MetadataFile FileName="oasis-200401-wss-wssecurity-utility-1.xsd" MetadataType="Schema" ID="1cd7d4a4-a785-4809-94db-a328d61db0e8" SourceId="1" SourceUrl="file:///D:/My Documents/SNG BARRATT/Projects/Royal Mail/RM Soap Xsd Wsdl/oasis-200401-wss-wssecurity-utility-1.0.xsd" />
+    <MetadataFile FileName="shippingAPI.wsdl" MetadataType="Wsdl" ID="c3b7990d-6b91-4bf5-8fe8-9078cb5bf22e" SourceId="1" SourceUrl="file:///D:/My Documents/SNG BARRATT/Projects/Royal Mail/RM Soap Xsd Wsdl/ShippingAPI_V2_0_9.wsdl" />
+    <MetadataFile FileName="xmldsig-core-schema.xsd" MetadataType="Schema" ID="3f434535-0626-494d-8a2b-28b1d65ac6e3" SourceId="1" SourceUrl="file:///D:/My Documents/SNG BARRATT/Projects/Royal Mail/RM Soap Xsd Wsdl/xmldsig-core-schema.xsd" />
+    <MetadataFile FileName="ReferenceDataV2_3.xsd" MetadataType="Schema" ID="d8cd0834-bc66-4d45-9479-90fd0d5ce981" SourceId="1" SourceUrl="file:///D:/My Documents/SNG BARRATT/Projects/Royal Mail/RM Soap Xsd Wsdl/CDM/ReferenceDataV2_3.xsd" />
+    <MetadataFile FileName="ShippingAPI_V2_0_9.xsd" MetadataType="Schema" ID="a8e3e212-2de9-43de-9378-e752d0a9b40f" SourceId="1" SourceUrl="file:///D:/My Documents/SNG BARRATT/Projects/Royal Mail/RM Soap Xsd Wsdl/ShippingAPI_V2_0_9.xsd" />
+    <MetadataFile FileName="CommonIntegrationSchemaV1_11_1.xsd" MetadataType="Schema" ID="f4276068-c6b1-4964-b853-7abbfb0cf9b5" SourceId="1" SourceUrl="file:///D:/My Documents/SNG BARRATT/Projects/Royal Mail/RM Soap Xsd Wsdl/CDM/CommonIntegrationSchemaV1_11_1.xsd" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

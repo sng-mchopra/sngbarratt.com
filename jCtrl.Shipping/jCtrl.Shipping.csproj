@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{25F22D79-2939-4A34-BE13-1F2E73CF7A8A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>jCtrl.Shipping</RootNamespace>
+    <AssemblyName>jCtrl.Shipping</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Rates.cs" />
+    <Compile Include="Shipments.cs" />
+    <Compile Include="Utilities.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\jCtrl.Services\jCtrl.Services.csproj">
+      <Project>{cac1c81b-95b4-4ffd-ab13-cc045d5b5c7b}</Project>
+      <Name>jCtrl.Services</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\jCtrl.Shipping.Chronoship\jCtrl.Shipping.Chronoship.csproj">
+      <Project>{705103aa-8bf5-4dd9-86e0-4fb226f01897}</Project>
+      <Name>jCtrl.Shipping.Chronoship</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\jCtrl.Shipping.RoyalMail\jCtrl.Shipping.RoyalMail.csproj">
+      <Project>{b27b37ab-4164-4e7a-bfed-a0390ef0e332}</Project>
+      <Name>jCtrl.Shipping.RoyalMail</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\jCtrl.Shipping.UPS\jCtrl.Shipping.UPS.csproj">
+      <Project>{4e3b65da-ba03-4f17-ad50-d712b229b988}</Project>
+      <Name>jCtrl.Shipping.UPS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\jCtrl.Shipping.USPS\jCtrl.Shipping.USPS.csproj">
+      <Project>{f40a88c4-9491-49db-86cb-1ab37a8001a3}</Project>
+      <Name>jCtrl.Shipping.USPS</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<AccessRequest xml:lang="en-US">
+  <AccessLicenseNumber>#accesskey</AccessLicenseNumber>
+  <UserId>#userid</UserId>
+  <Password>#password</Password>
+</AccessRequest>
+<?xml version="1.0" ?>
+<RatingServiceSelectionRequest xml:lang="en-US">
+  <Request>
+    <TransactionReference>
+      <CustomerContext>#requestreference</CustomerContext>
+      <XpciVersion>1.0</XpciVersion>
+    </TransactionReference>
+    <RequestAction>Rate</RequestAction>
+    <RequestOption>#requestoption</RequestOption>
+  </Request>
+  <PickupType>
+    <Code>01</Code>
+  </PickupType>
+  <Shipment>
+    #servicecode
+    <RateInformation>
+      <NegotiatedRatesIndicator>1</NegotiatedRatesIndicator>
+    </RateInformation>
+    <Shipper>
+      <Name>#sendername</Name>
+      <PhoneNumber>#senderphone</PhoneNumber>
+      <ShipperNumber>#accountnumber</ShipperNumber>
+      <Address>
+        <AddressLine1>#senderaddressline1</AddressLine1>
+        <City>#sendercity</City>
+        <PostalCode>#senderpostalcode</PostalCode>
+        <CountryCode>#sendercountrycode</CountryCode>
+      </Address>
+    </Shipper>
+    <ShipTo>
+      <CompanyName>#deliveryname</CompanyName>
+      <PhoneNumber>#deliveryphone</PhoneNumber>
+      <Address>
+        <AddressLine1>#deliveryaddressline1</AddressLine1>
+        <AddressLine2>#deliveryaddressline2</AddressLine2>
+        <City>#deliverycity</City>
+        #deliverycountystate
+        <PostalCode>#deliverypostalcode</PostalCode>
+        <CountryCode>#deliverycountrycode</CountryCode>
+        #residentialaddressindicator
+      </Address>
+    </ShipTo>
+    #packages
+  </Shipment>
+</RatingServiceSelectionRequest>

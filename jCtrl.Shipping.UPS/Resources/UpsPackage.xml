@@ -1,0 +1,21 @@
+<Package>
+  <PackagingType>
+    <Code>02</Code>
+  </PackagingType>
+  <Dimensions>
+    <UnitOfMeasurement>
+      <Code>CM</Code>
+    </UnitOfMeasurement>
+    <Length>#lengthCms</Length>
+    <Width>#widthCms</Width>
+    <Height>#heightCms</Height>
+  </Dimensions>
+  <PackageWeight>
+    <UnitOfMeasurement>
+      <Code>KGS</Code>
+    </UnitOfMeasurement>
+    <Weight>#weightkgs</Weight>
+  </PackageWeight>
+  <AdditionalHandling/>
+  <LargePackageIndicator/>
+</Package>
